@@ -1,0 +1,5 @@
+/home/nzhinusoft/Documents/SonarQube_prepar/sample/sonar-scanner-cli-5.0.1.3006-linux/sonar-scanner-5.0.1.3006-linux/bin/sonar-scanner \
+  -Dsonar.projectKey=sample \
+  -Dsonar.sources=. \
+  -Dsonar.host.url=http://localhost:9000 \
+  -Dsonar.token=sqp_e30bbbedd8051f368163d52b02a4238222bd93f4
